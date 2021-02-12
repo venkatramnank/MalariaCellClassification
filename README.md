@@ -15,4 +15,4 @@ The binary classification of parasitic and non parasitic malaria cells is obtain
 This project comes under the initiative to delve into usage of Deep learning in Medical Imaging field.
 
 ## Contact
-For any doubts please contact venkatramnank@gmail.com .
+For any doubts or contributions please contact venkatramnank@gmail.com .
